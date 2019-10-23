@@ -1,0 +1,16 @@
+Cara pake :
+
+
+1. Import database ke phpmyadmin lu
+
+databasenya gua taro di folder database, namanya mynotescode.sql
+
+2. Jalanin xampp, nyalain apache sama mysqlnya.
+
+3. buka browser, ketik http://localhost/import_excel_ci
+
+Itu programnya udah bisa :
+
+1. Import file excel ke database.
+2. Export file excel ke database.
+3. Bikin file buat templatenya.
